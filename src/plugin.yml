@@ -1,3 +1,7 @@
 name: System
 version: 1.0
 main: de.simon.main.Main
+
+commands:
+   heal:
+      description: Heile dich!
